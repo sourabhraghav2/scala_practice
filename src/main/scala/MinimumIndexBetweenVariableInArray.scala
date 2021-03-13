@@ -1,4 +1,4 @@
-object minimumIndexBetweenVariableInArray extends App {
+object MinimumIndexBetweenVariableInArray extends App {
 //claculatr minimum index distance Sub-array
   def findMinimumDistance(list: List[Int], x: Int, y: Int): Option[Int] = {
     var ix = -1
