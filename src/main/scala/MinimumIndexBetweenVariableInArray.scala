@@ -27,6 +27,6 @@ object MinimumIndexBetweenVariableInArray extends App {
 
   val list = List(1, 2, 3, 2)
   val minDistaceResult = findMinimumDistance(list, 1, 2)
-  print("minDistaceResult : " + minDistaceResult)
+  print("MinDistaceResult : " + minDistaceResult)
 
 }
